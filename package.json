@@ -1,6 +1,6 @@
 {
   "name": "@femessage/types",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "FEMessage basic Typescript type declaration files",
   "author": "https://github.com/FEMessage",
   "license": "MIT",

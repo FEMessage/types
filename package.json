@@ -7,7 +7,7 @@
   "keywords": [
     "typescript type declarations",
     "femessage",
-    ".d.ts"
+    "typescript .d.ts"
   ],
   "scripts": {
     "stdver": "standard-version -m '[skip ci] chore(release): v%s'",

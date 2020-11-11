@@ -1,0 +1,32 @@
+{
+  "name": "@femessage/types",
+  "version": "1.0.0",
+  "description": "FEMessage basic Typescript type declaration files",
+  "author": "https://github.com/FEMessage",
+  "license": "MIT",
+  "keywords": [
+    "typescript type declarations",
+    "femessage",
+    ".d.ts"
+  ],
+  "scripts": {
+    "stdver": "standard-version -m '[skip ci] chore(release): v%s'",
+    "release": "gren release --override"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femessage/types.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/femessage/types/issues"
+  },
+  "homepage": "https://github.com/femessage/types#readme",
+  "gren": "@femessage/grenrc",
+  "devDependencies": {
+    "@femessage/github-release-notes": "latest",
+    "standard-version": "^6.0.1"
+  }
+}
